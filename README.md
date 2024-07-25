@@ -1,4 +1,3 @@
-Sure, here is the README content formatted for GitHub:
 
 ---
 
