@@ -1,4 +1,3 @@
----
 # Network Security Investigator
 
 ## Overview
