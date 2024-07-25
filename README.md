@@ -58,15 +58,6 @@
 
     - Enter the server IP address when prompted.
 
-3. **Main Toolkit**:
-    - Run the main toolkit script.
-
-        ```sh
-        python main.py
-        ```
-
-    - Select the desired interface and follow the menu options to use different functionalities such as rogue DHCP server detection, active device discovery, device enumeration, and network packet sniffing.
-
 ## Technologies Used
 
 - **Programming Languages**: Python
@@ -76,4 +67,6 @@
 ## Contributing
 
 Contributions are welcome! Please fork the repository, create a branch for your feature or bug fix, and submit a pull request for review.
+
+
 
